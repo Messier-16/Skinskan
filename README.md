@@ -22,3 +22,5 @@ All the training data is from dermatoscope imaging. Thus, our project is meant f
 
 
 AI HACKATHON ZIP has the iOS app
+
+https://docs.google.com/presentation/d/1vaxYNNezJ4kET6rhOa_EaCtWjaPx0T2rLQLay8Eoavs/edit?usp=sharing - Google Slides Presentation - THIS COMMIT WAS ONLY FOR THE PRESENTATION (that's why it is after the deadline, asked for permission from organizers)
