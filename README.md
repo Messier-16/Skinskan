@@ -1,5 +1,5 @@
 # Skinskan
-# $10,000 Grand Prize Winner - School of AI International HealthHack
+# $10,000 Grand Prize Winner - School of AI Global HealthHack
 Sacramento Health AI Hackathon Project - Consumer Skin Cancer Recognition App
 
 By Rithwik Sudharsan, Edison Li, Alex Fung, Mario Ishhe, and Huzaifa Ahmad
